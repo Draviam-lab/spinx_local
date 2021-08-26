@@ -4,7 +4,9 @@
 Author: David Dang, PhD at Draviam Lab (School of Biological and Chemical Sciences, Queen Mary University of London) and Sastry Group (Department of Computer Science, King's College London)
 ```
 
-SpinX Software is designed to study dynamics of subcellular structures in 3D time-resolved movies (e.g. spindle and cell cortex). The SpinX framework is composed of four modules:![spinx_overview](/Users/daviddang/Downloads/spinx_overview.png)
+SpinX Software is designed to study dynamics of subcellular structures in 3D time-resolved movies (e.g. spindle and cell cortex). The SpinX framework is composed of four modules:
+
+![spinx_overview](https://raw.githubusercontent.com/Draviam-lab/spinx_local/ff9e74576258645adc042245b3cde1de7cd98bd0/assets/spinx_overview.png)
 
  | Name								| Type				| Description	| Output
  |----------------------------|------------- |------------ |-------------

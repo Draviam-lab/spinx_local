@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<OME UUID="urn:uuid:d1125ecb-029a-4d0e-ba7e-28713840f244" xmlns="http://www.openmicroscopy.org/Schemas/OME/2016-06" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openmicroscopy.org/Schemas/OME/2016-06 http://www.openmicroscopy.org/Schemas/OME/2016-06/ome.xsd">
+	
+  
+	<Image ID="0" Name="IMAGE">
+		
+    
+		<AcquisitionDate>2021-04-30T14:00:43.261463</AcquisitionDate>
+		
+    
+		<Pixels BigEndian="true" DimensionOrder="XYCZT" ID="0" PhysicalSizeX="0.1102" PhysicalSizeY="0.1102" PhysicalSizeZ="2" SizeC="1" SizeT="5" SizeX="512" SizeY="512" SizeZ="3" Type="uint8">
+			
+
+			<Channel ID="Channel:0:0" Name="C:0" SamplesPerPixel="1">
+				
+        
+				<LightPath/>
+				
+      
+			</Channel>
+			
+    
+			<TiffData FirstC="0" FirstT="0" FirstZ="0" IFD="0" PlaneCount="1"/>
+			<TiffData FirstC="0" FirstT="0" FirstZ="1" IFD="1" PlaneCount="1"/>
+			<TiffData FirstC="0" FirstT="0" FirstZ="2" IFD="2" PlaneCount="1"/>
+			<TiffData FirstC="0" FirstT="1" FirstZ="0" IFD="3" PlaneCount="1"/>
+			<TiffData FirstC="0" FirstT="1" FirstZ="1" IFD="4" PlaneCount="1"/>
+			<TiffData FirstC="0" FirstT="1" FirstZ="2" IFD="5" PlaneCount="1"/>
+			<TiffData FirstC="0" FirstT="2" FirstZ="0" IFD="6" PlaneCount="1"/>
+			<TiffData FirstC="0" FirstT="2" FirstZ="1" IFD="7" PlaneCount="1"/>
+			<TiffData FirstC="0" FirstT="2" FirstZ="2" IFD="8" PlaneCount="1"/>
+			<TiffData FirstC="0" FirstT="3" FirstZ="0" IFD="9" PlaneCount="1"/>
+			<TiffData FirstC="0" FirstT="3" FirstZ="1" IFD="10" PlaneCount="1"/>
+			<TiffData FirstC="0" FirstT="3" FirstZ="2" IFD="11" PlaneCount="1"/>
+			<TiffData FirstC="0" FirstT="4" FirstZ="0" IFD="12" PlaneCount="1"/>
+			<TiffData FirstC="0" FirstT="4" FirstZ="1" IFD="13" PlaneCount="1"/>
+			<TiffData FirstC="0" FirstT="4" FirstZ="2" IFD="14" PlaneCount="1"/>
+		</Pixels>
+		
+  
+	</Image>
+	
+
+</OME>
